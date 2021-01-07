@@ -1,2 +1,2 @@
 # Lockebuilder
-Autoupdater made by ii7moodUAE
+AutoUpdater made by ii7moodUAE
